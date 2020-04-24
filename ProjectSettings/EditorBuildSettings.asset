@@ -29,4 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Snaps.unity
     guid: 40b4e644aac5e0d4da8f18fefe696f7c
+  - enabled: 1
+    path: Assets/Scenes/Collection.unity
+    guid: 1adec04d507815344a510907c9741648
   m_configObjects: {}
